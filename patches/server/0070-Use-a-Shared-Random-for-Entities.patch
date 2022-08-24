@@ -88,3 +88,4 @@ index 0f50355ea57101e71df6990c1e19c7b927f5c306..829dc369891c0d120da6ed00ab981c6f
 +
      private CraftEntity bukkitEntity;
  
+     public CraftEntity getBukkitEntity() {
